@@ -1,0 +1,17 @@
+{
+  "name": "karacauitest",
+  "version": "1.0.0",
+  "description": "Karaca web sitesi arayüz test projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Furkan Zambak",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "10.3.0",
+    "cypress-dark": "^1.8.3"
+  }
+}
